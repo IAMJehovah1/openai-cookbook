@@ -4,6 +4,17 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: Surf the OpenAI Cookbook for Your Repositories
+  path: examples/surf_cookbook_for_repos.ipynb
+  slug: surf-cookbook-for-repos
+  description: Use OpenAI embeddings to automatically discover the most relevant cookbook entries for any GitHub repository or portfolio of repositories.
+  date: 2026-04-24
+  tags:
+    - embeddings
+    - search
+    - github
+    - recommendations
+
 - title: Building workspace agents in ChatGPT to complete repeatable, end-to-end work
   path: articles/chatgpt-agents-sales-meeting-prep.md
   slug: chatgpt-agents-sales-meeting-prep
